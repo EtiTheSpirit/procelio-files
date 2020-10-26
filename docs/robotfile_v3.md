@@ -1,6 +1,6 @@
-# The RobotFile File Format: Version `3` // SUB-BYTE STORAGE
+# The RobotFile File Format: Version `3`
 
-This is a proposed alteration of robot files in the event that data storage becomes important. It is not intended for production use at this time and is more comparable to a crude spitball alternative.
+This is a proposed alteration of robot files. It is not intended for production use at this time and is more comparable to a crude spitball alternative.
 
 All multi-byte numbers are big-endian and unsigned unless otherwise mentioned.
 All fields with `?` after them may not be included. The corresponding type has information on how to handle that.
